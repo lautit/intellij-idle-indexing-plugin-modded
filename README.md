@@ -1,5 +1,5 @@
 # Modded Intellij Idle Indexing Plugin
-Based on Andrev's Idle Indexing but modded to support newer IDE versions.
+Based on Andrey Vlasovskikh's (Web: https://pirx.ru/) Idle Indexing but modded to support newer IDE versions.
 
 ## Instructions
 
@@ -22,3 +22,8 @@ Based on Andrev's Idle Indexing but modded to support newer IDE versions.
 ![image](https://user-images.githubusercontent.com/14226299/181105241-52aa1050-bfd1-4509-9ada-9fa634faf634.png)
 
 9. Success! Enjoy a great working tool, once again :)
+
+
+## Credits
+
+Andrey Vlasovskikh's (Web: https://pirx.ru/) for creating this excellent tool. Thanks Andrev!
