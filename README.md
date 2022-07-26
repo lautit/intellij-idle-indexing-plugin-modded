@@ -1,10 +1,6 @@
 # Modded Intellij Idle Indexing Plugin
 Based on Andrev's Idle Indexing but modded to support newer IDE versions.
 
-Just uncompressed the , updated lib/jar/plugin.xml ideaversion tag to latest and recompress:
-
-You can find a usable .zip file with the version updated to latest 222.* build in Releases.
-
 ## Instructions
 
 1. [Download the latest plugin build available at JetBrains Plugin Marketplace](https://plugins.jetbrains.com/plugin/download?rel=true&updateId=116910)
