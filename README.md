@@ -17,4 +17,8 @@ Based on Andrev's Idle Indexing but modded to support newer IDE versions.
 
 6. Repack the `com` and `META-INF` folders back to `inin.jar` (you can safely use a `.zip` archive and rename it)
 7. Repack the whole content back to a `.zip` file
-8. In your preferred JB IDE Plugin menu, select the 3 dots and 
+8. In your preferred JB IDE Plugin menu, click on the 3 dots and select "Install plugin from Disk...":
+
+![image](https://user-images.githubusercontent.com/14226299/181104805-d0bd4b10-d5a5-4670-b139-2c75345859a2.png)
+
+9. Success! Enjoy a great working tool, once again :)
