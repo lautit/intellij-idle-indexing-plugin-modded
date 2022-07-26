@@ -26,4 +26,4 @@ Based on Andrey Vlasovskikh's (Web: https://pirx.ru/) Idle Indexing but modded t
 
 ## Credits
 
-Andrey Vlasovskikh's (Web: https://pirx.ru/) for creating this excellent tool. Thanks Andrev!
+Andrey Vlasovskikh (Web: https://pirx.ru/ GH: https://github.com/vlasovskikh) for creating this excellent tool. Thanks Andrev!
